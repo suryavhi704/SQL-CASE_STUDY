@@ -54,7 +54,7 @@ This repository contains an in-depth case study conducted on three normalized da
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/sql-case-study.git
+   git clone https://github.com/suryavhi704/SQL-CASE_STUDY
    ```
 2. Load the datasets into your database.
 3. Execute the SQL queries available in the `/queries/` directory.
