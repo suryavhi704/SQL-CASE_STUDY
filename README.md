@@ -43,6 +43,8 @@ This repository contains an in-depth case study conducted on three normalized da
 24. Display `date, product ID, and sales` where total expenses fall between 100 and 200.
 25. **Delete the records in the `Product Table` for regular type.**
 
+### ALSO I'M ADDING THE BESIC PROJECT FILE SO THAT IF THERE IS ANY PROBLEM TO UNDERSTAND ANYTHING THEN PEOPLE CAN RECAP TOPICS.
+
 ## 🛠️ Technologies Used
 - **Database Management System:** SQL Server / MySQL
 - **Query Language:** SQL & T-SQL
